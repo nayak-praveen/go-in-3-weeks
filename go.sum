@@ -1,2 +1,4 @@
 github.com/jboursiquot/go-proverbs v0.0.2 h1:LlJpbPfW6+HThOwZR+VsJwpRQL6xHOLsWjXJSZV2N40=
 github.com/jboursiquot/go-proverbs v0.0.2/go.mod h1:Fkb7X/GdAApOZjs+v4eREbG/UnzgHiLOLq7RbkKUf3U=
+github.com/nayak-praveen/stringutils v0.0.0-20240408025120-2ed239b5a832 h1:GwafSTfIojfG5HqizWVYqk19k7GnjobdaSTbfEMiWNo=
+github.com/nayak-praveen/stringutils v0.0.0-20240408025120-2ed239b5a832/go.mod h1:pf0BE7ab/tyCN76YXtFRnVYuIBpd9YMPU8vIWeHM5qc=
